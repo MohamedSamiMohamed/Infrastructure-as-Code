@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject"
+	},
+	{
+		"ParameterKey": "AutoScalingGroupMin",
+		"ParameterValue": "4"
+	},
+	{
+		"ParameterKey": "AutoScalingGroupMax",
+		"ParameterValue": "6"
+	}
+]
