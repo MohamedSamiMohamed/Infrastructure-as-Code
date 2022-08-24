@@ -1,5 +1,5 @@
 # Deploy a high-available web app using AWS CloudFormation 
-In this project, it is required to deply infrastructure as shown in the fllowing image:
+In this project, it is required to deploy infrastructure as shown in the following image:
 ![AWSWebAppInfrastructure](https://github.com/MohamedSamiMohamed/Infrastructure-as-Code/blob/master/AWSWebAppInfrastructure.png)
 as you can see, this includes:
 
